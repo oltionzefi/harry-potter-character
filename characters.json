@@ -1,0 +1,328 @@
+[
+    {
+      "id": 0,
+      "name": "Regulus Arcturus Black",
+      "bio": "Brother of Sirius. Used to be a Death Eater but defected."
+    },
+    {
+      "id": 1,
+      "name": "Sirius Black",
+      "bio": "Best friend of James Potter and godfather of Harry."
+    },
+    {
+      "id": 2,
+      "name": "Lavender Brown",
+      "bio": "Killed by a werewolf. She was a gryffindor student who dated Ron. "
+    },
+    {
+      "id": 3,
+      "name": "Cho Chang",
+      "bio": "Ravenclaw student who dated Cedric Diggory and Harry Potter."
+    },
+    {
+      "id": 4,
+      "name": "Vincent Crabbe Sr.",
+      "bio": "Father of Crabbe and death-eater who escaped Azkaban."
+    },
+    {
+      "id": 5,
+      "name": "Vincent Crabbe",
+      "bio": "Slytherin student who was best friends with Goyle and followed Draco."
+    },
+    {
+      "id": 6,
+      "name": "Bartemius \"Barty\" Crouch Sr.",
+      "bio": "Head of the department of Internation Magical Cooperation. Killed by his son."
+    },
+    {
+      "id": 7,
+      "name": "Bartemius \"Barty\" Crouch Jr.",
+      "bio": "Death Eater who impersonated Alastor Moody."
+    },
+    {
+      "id": 8,
+      "name": "Fleur Delacour",
+      "bio": "Participated in the Triwizard tournament and married Bill Weasley."
+    },
+    {
+      "id": 9,
+      "name": "Cedric Diggory",
+      "bio": "Participated in the Triwizard tournament and got killed by Voldemort."
+    },
+    {
+      "id": 10,
+      "name": "Alberforth Dumbledore",
+      "bio": "Albus' brother and owner of Hog's Head."
+    },
+    {
+      "id": 11,
+      "name": "Albus Dumbledore",
+      "bio": "Headmaster of Hogwards killed by Snape."
+    },
+    {
+      "id": 12,
+      "name": "Dudley Dursley",
+      "bio": "Muggle son of Vernon and Petunia and first-cousin of Harry."
+    },
+    {
+      "id": 13,
+      "name": "Petunia Dursley",
+      "bio": "Harry's aunt and sister of Lily."
+    },
+    {
+      "id": 14,
+      "name": "Vernon Dursley",
+      "bio": "Harry's muggle uncle."
+    },
+    {
+      "id": 15,
+      "name": "Argus Filch",
+      "bio": "Squib caretake of Hogwards."
+    },
+    {
+      "id": 16,
+      "name": "Seamus Finnigan",
+      "bio": "Harry's friend and member of Dumbledore's army."
+    },
+    {
+      "id": 17,
+      "name": "Nicolas Flamel",
+      "bio": "Creator of the Philosopher's Stone."
+    },
+    {
+      "id": 18,
+      "name": "Cornelius Fudge",
+      "bio": "Minister of Magic that was forced to resign."
+    },
+    {
+      "id": 19,
+      "name": "Goyle Sr.",
+      "bio": "Death Eater and father of Gregory Goyle."
+    },
+    {
+      "id": 20,
+      "name": "Gregory Goyle",
+      "bio": "Best friend of Crabbe. Slytherin student and dies by falling into Fiendfyre."
+    },
+    {
+      "id": 21,
+      "name": "Hermione Granger",
+      "bio": "One of Harry's best friend and marries Ron Weasley."
+    },
+    {
+      "id": 22,
+      "name": "Rubeus Hagrid",
+      "bio": "Half-giant who loves Harry. He was the keeper of Keys and Grounds at Hogwards."
+    },
+    {
+      "id": 23,
+      "name": "Igor Karkaroff",
+      "bio": "Highmaster of Durmstrang and reformed death-eater."
+    },
+    {
+      "id": 24,
+      "name": "Viktor Krum",
+      "bio": "Participant in the Triwizard tournament. Dated Hermione."
+    },
+    {
+      "id": 25,
+      "name": "Bellatrix Lestrange",
+      "bio": "Death Eater who was killed by Molly Weasley."
+    },
+    {
+      "id": 26,
+      "name": "Alice Longbottom",
+      "bio": "Mother of Neville who was tortured by Bellatrix."
+    },
+    {
+      "id": 27,
+      "name": "Frank Longbottom",
+      "bio": "Father of Neville who was tortured by Bellatrix."
+    },
+    {
+      "id": 28,
+      "name": "Neville Longbottom",
+      "bio": "Gryffindor student who was a member of Dumbledore's army."
+    },
+    {
+      "id": 29,
+      "name": "Luna Lovegood",
+      "bio": "Ravenclaw student who was a member of Dumbledore's army."
+    },
+    {
+      "id": 30,
+      "name": "Xenophilius Lovegood",
+      "bio": "Father of Luna and editor of The Quibbler."
+    },
+    {
+      "id": 31,
+      "name": "Remus Lupin",
+      "bio": "Friend of James Potter and werewolf. He married Nymphadora."
+    },
+    {
+      "id": 32,
+      "name": "Draco Malfoy",
+      "bio": "Slytherin student who had many arguments with Harry."
+    },
+    {
+      "id": 33,
+      "name": "Lucius Malfoy",
+      "bio": "Father of Draco and influential Death-Eater."
+    },
+    {
+      "id": 34,
+      "name": "Narcissa Malfoy",
+      "bio": "Mother of Draco and sister of Bellatrix."
+    },
+    {
+      "id": 35,
+      "name": "Olympe Maxime",
+      "bio": "Half-giantess and headmistress of Beauxbatons."
+    },
+    {
+      "id": 36,
+      "name": "Minerva McGonagall",
+      "bio": "Professor of Transfiguration and head of Gryffindor."
+    },
+    {
+      "id": 37,
+      "name": "Alastor \"Mad-Eye\" Moody",
+      "bio": "Retired auror and member of the order of the Phoenix. Killed by Voldemort."
+    },
+    {
+      "id": 38,
+      "name": "Peter Pettigrew",
+      "bio": "Betrays James and Lily Potter. Follower of Voldemort."
+    },
+    {
+      "id": 39,
+      "name": "Harry Potter",
+      "bio": "The boy who lived. Main character of the series."
+    },
+    {
+      "id": 40,
+      "name": "James Potter",
+      "bio": "Father of Harry. Murdered by Voldemort."
+    },
+    {
+      "id": 41,
+      "name": "Lily Potter",
+      "bio": "Mother of Harry. Murdered by Voldemort."
+    },
+    {
+      "id": 42,
+      "name": "Quirinus Quirrell",
+      "bio": "Possessed by Voldemort. Defence against the Dark Arts professor."
+    },
+    {
+      "id": 43,
+      "name": "Tom Riddle Sr.",
+      "bio": "Muggle father of Voldemort who was killed by him."
+    },
+    {
+      "id": 44,
+      "name": "Mary Riddle",
+      "bio": "Muggle mother of Voldemort who was killed by him."
+    },
+    {
+      "id": 45,
+      "name": "Lord Voldemort",
+      "bio": "The antagonist of the series who murdered many."
+    },
+    {
+      "id": 46,
+      "name": "Rita Skeeter",
+      "bio": "Reporter at the Daily Prophet."
+    },
+    {
+      "id": 47,
+      "name": "Severus Snape",
+      "bio": "Head of the Slytherin house and saved Harry in many occasions."
+    },
+    {
+      "id": 48,
+      "name": "Nymphadora Tonks",
+      "bio": "Married Remus Lupin and was killed by Bellatrix."
+    },
+    {
+      "id": 49,
+      "name": "Dolores Janes Umbridge",
+      "bio": "Senior undersecretary to the Ministry of Magic. Eventually sent to Azkaban."
+    },
+    {
+      "id": 50,
+      "name": "Arthur Weasley",
+      "bio": "Father of the Weasleys and member of the Order of the Phoenix."
+    },
+    {
+      "id": 51,
+      "name": "Bill Weasley",
+      "bio": "Oldest son of Arthur and Molly. Husband of Fleur. "
+    },
+    {
+      "id": 52,
+      "name": "Charlie Weasley",
+      "bio": "Second son of Arthur and Molly. Works with dragons in Romania."
+    },
+    {
+      "id": 53,
+      "name": "Fred Weasley",
+      "bio": "Identical twin with George and co-owner of Weasleys' Wizard Wheezes"
+    },
+    {
+      "id": 54,
+      "name": "George Weasley",
+      "bio": "Identical twin with Fred and co-owner of Weasleys' Wizard Wheezes"
+    },
+    {
+      "id": 55,
+      "name": "Ginny Weasley",
+      "bio": "Marries Harry Potter and only daughter of Molly and Arthur."
+    },
+    {
+      "id": 56,
+      "name": "Molly Weasley",
+      "bio": "Wife of Arthur and mother of the Weasleys. Kills Bellatrix."
+    },
+    {
+      "id": 57,
+      "name": "Percy Weasley",
+      "bio": "Third son of Arthur and Molly. He is a Gryffindor prefect."
+    },
+    {
+      "id": 58,
+      "name": "Ron Weasley",
+      "bio": "Harry's best friend. Marries Hermione."
+    },
+    {
+      "id": 59,
+      "name": "Dobby",
+      "bio": "House elf and friend of Harry. He is killed by Bellatrix."
+    },
+    {
+      "id": 60,
+      "name": "Fluffy",
+      "bio": "Three-headed dog belonging to Rubeus Hagrid."
+    },
+    {
+      "id": 61,
+      "name": "Hedwig",
+      "bio": "Harry's owl."
+    },
+    {
+      "id": 62,
+      "name": "Moaning Myrtle",
+      "bio": "Ghost at Hogwards."
+    },
+    {
+      "id": 63,
+      "name": "Aragog",
+      "bio": "Acromantula belonging to Rubeus Hagrid."
+    },
+    {
+      "id": 64,
+      "name": "Grawp",
+      "bio": "Giant-half brother of Hagrid."
+    }
+   ]
+   
